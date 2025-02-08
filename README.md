@@ -5,7 +5,7 @@
 
 <h2 align="center">A Cross-Platform Mobile App Developer (Flutter/Dart)</h2>
 
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Shakirullah25&color=blue)](https://github.com/Shakirullah25)
 [![wakatime](https://wakatime.com/badge/user/7c8a1952-5bba-4c44-8573-687d1fd48864.svg)](https://wakatime.com/@7c8a1952-5bba-4c44-8573-687d1fd48864)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
